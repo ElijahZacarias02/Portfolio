@@ -4769,3 +4769,7 @@ body.is-preload #intro:not(.hidden) + #header + #nav {
     visibility: visible;
   }
 }
+
+#Skills,
+#Projects #Contact {
+}
